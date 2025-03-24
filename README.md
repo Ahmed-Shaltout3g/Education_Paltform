@@ -1,10 +1,11 @@
-# Description
+# Education_Platform
 
-A React Educational platform application
+## Description
+. A React Educational platform application
 
 ## Table of Contents
 - [Demo](#demo)
-- [Backend repo]
+- [BackEnd_Repo](#backend)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,56 +14,61 @@ A React Educational platform application
 - [Contact](#contact)
 
 ## Demo
-[Live Demo](https://ahmed-shaltout3g.github.io/Education_Paltform/)
-
-## Backend repo
-[Live Demo](https://github.com/Ahmed-Shaltout3g/Education_Platform)
-
+You can check out the live version of this project here:  
+[Live Demo]([https://github.com/Ahmed-Shaltout3g/Education_Platform])
 
 ## Features
+- ✅ Protected routing ensures that each role (admin, teacher, student) only accesses specific pages.
+- ✅ Course filtering and search functionality.
+- ✅ Secure authentication and authorization system. •Comprehensive validation for all input fields.
 
 ## Installation
+To set up the project locally, follow these steps:
 
-Clone the repository:
-```sh
-git clone https://github.com/AhmedHassan222/Educational_Platform.git
-cd Educational_platform
-```
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Ahmed-Shaltout3g/Education_Platform.git
+   cd Educational_platform
 
-Install dependencies:
-```sh
-npm install
-```
 
-Start the development server:
-```sh
-npm start
-```
+2. Install dependencies:
+   ```sh
+   npm install
+
+3. Start the development server:
+   ```sh
+   npm start
 
 ## Usage
+. Once the server is running, you can access the application in your browser at 'http://localhost:3000'.
 
-Once the server is running, you can access the application in your browser at [http://localhost:3000](http://localhost:3000).
+## Technologies:
 
-## Technologies
-- React
-- JSX
-- Hooks
-- Context API
-- CSS
-- JavaScript
-- Bootstrap
-- Axios
-- React Router DOM
+. React
+. JSX
+. hooks
+. context
+. css
+. JavaScript
+. bootstrap
+. Axios
+. react-router-dom
 
 ## Contributing
+. Contributions are welcome! Please follow these steps: 1-Fork the repository. 2-Create a new branch (git checkout -b feature-branch-name). 3-Make your changes. 4- 
+  Commit your changes (git commit -m 'Add some feature'). 5-Push to the branch (git push origin feature-branch-name). 6-Open a pull request
 
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```sh
-   git checkout -b feature-branch-name
-   ```
-3. Make your changes.
-4. Commit your changes:
-   ```sh
-   git commit -m "Add
+## BackEnd_Repo :
+
+[Back End Repo]([https://github.com/Ahmed-Shaltout3g/Education_Platform])
+
+
+## Contact :
+
+Ahmed Shaltout Email : shaltouta477@gmail.com
+
+- LinkedIn: www.linkedin.com/in/ahmed-shaltout-015b85252
+
+- WhatsApp: +201208073209
+
+
