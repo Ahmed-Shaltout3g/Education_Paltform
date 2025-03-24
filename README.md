@@ -1,0 +1,2 @@
+Education platform 
+MERN Stack
