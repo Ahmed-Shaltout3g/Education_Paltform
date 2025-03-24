@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Education_Paltform/static/css/main.33e9a79a.css",
+    "main.js": "/Education_Paltform/static/js/main.ffd65324.js",
+    "static/js/453.3828d331.chunk.js": "/Education_Paltform/static/js/453.3828d331.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Education_Paltform/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Education_Paltform/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/feature-4.200709f.svg": "/Education_Paltform/static/media/feature-4.200709f.200709faa863294ca2169965d79609af.svg",
+    "static/media/fa-solid-900.woff2": "/Education_Paltform/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/logo.png": "/Education_Paltform/static/media/logo.71c8aa3c8fe0f7017baf.png",
+    "static/media/fa-brands-400.woff2": "/Education_Paltform/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Education_Paltform/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/feature-1.a3c9fc1.svg": "/Education_Paltform/static/media/feature-1.a3c9fc1.a3c9fc1be51f74956ef7d70c75e20972.svg",
+    "static/media/feature-3.89f5be4.svg": "/Education_Paltform/static/media/feature-3.89f5be4.89f5be4a7361341b95a15828a4138186.svg",
+    "static/media/feature-5.173caa5.svg": "/Education_Paltform/static/media/feature-5.173caa5.173caa5b2436b7c0058f2fe9f471d4bb.svg",
+    "static/media/fa-regular-400.woff2": "/Education_Paltform/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/feature-6.d23de85.svg": "/Education_Paltform/static/media/feature-6.d23de85.d23de85f7cef0c6c240b2f27cfca7f59.svg",
+    "static/media/feature-2.3cb2b9c.svg": "/Education_Paltform/static/media/feature-2.3cb2b9c.3cb2b9c6acd06a02ba746b252666e698.svg",
+    "static/media/fa-v4compatibility.ttf": "/Education_Paltform/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/male-avatar-boy-face-man-user-6-svgrepo-com.svg": "/Education_Paltform/static/media/male-avatar-boy-face-man-user-6-svgrepo-com.ef1246af1d7eea24486695a121163b98.svg",
+    "static/media/female-avatar-girl-face-woman-user-3-svgrepo-com.svg": "/Education_Paltform/static/media/female-avatar-girl-face-woman-user-3-svgrepo-com.27320cea611a566bb1e092c945bf89a2.svg",
+    "static/media/fa-v4compatibility.woff2": "/Education_Paltform/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Education_Paltform/index.html",
+    "main.33e9a79a.css.map": "/Education_Paltform/static/css/main.33e9a79a.css.map",
+    "main.ffd65324.js.map": "/Education_Paltform/static/js/main.ffd65324.js.map",
+    "453.3828d331.chunk.js.map": "/Education_Paltform/static/js/453.3828d331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e9a79a.css",
+    "static/js/main.ffd65324.js"
+  ]
+}
