@@ -15,7 +15,7 @@
 
 ## Demo
 You can check out the live version of this project here:  
-[Live Demo]([https://github.com/Ahmed-Shaltout3g/Education_Platform])
+[Live Demo](https://github.com/Ahmed-Shaltout3g/Education_Platform)
 
 ## Features
 - ✅ Protected routing ensures that each role (admin, teacher, student) only accesses specific pages.
@@ -60,7 +60,7 @@ To set up the project locally, follow these steps:
 
 ## BackEnd_Repo :
 
-[Back End Repo]([https://github.com/Ahmed-Shaltout3g/Education_Platform])
+[Back End Repo](https://github.com/Ahmed-Shaltout3g/Education_Platform)
 
 
 ## Contact :
