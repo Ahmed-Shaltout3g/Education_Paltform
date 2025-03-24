@@ -1,91 +1,68 @@
-Description
+# Description
 
 A React Educational platform application
 
-Table of Contents
+## Table of Contents
+- [Demo](#demo)
+- [Backend repo]
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-Demo
+## Demo
+[Live Demo](https://ahmed-shaltout3g.github.io/Education_Paltform/)
 
-Features
+## Backend repo
+[Live Demo](https://github.com/Ahmed-Shaltout3g/Education_Platform)
 
-Installation
 
-Usage
+## Features
 
-Technologies
-
-Contributing
-
-Contact
-
-Demo
-
-Live Demo
-
-Features
-
-Installation
+## Installation
 
 Clone the repository:
-
+```sh
 git clone https://github.com/AhmedHassan222/Educational_Platform.git
 cd Educational_platform
+```
 
 Install dependencies:
-
+```sh
 npm install
+```
 
 Start the development server:
-
+```sh
 npm start
+```
 
-Usage
+## Usage
 
-Once the server is running, you can access the application in your browser at http://localhost:3000.
+Once the server is running, you can access the application in your browser at [http://localhost:3000](http://localhost:3000).
 
-Technologies
+## Technologies
+- React
+- JSX
+- Hooks
+- Context API
+- CSS
+- JavaScript
+- Bootstrap
+- Axios
+- React Router DOM
 
-React
-
-JSX
-
-Hooks
-
-Context API
-
-CSS
-
-JavaScript
-
-Bootstrap
-
-Axios
-
-React Router DOM
-
-Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
-
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-branch-name
-
-Make your changes.
-
-Commit your changes:
-
-git commit -m "Add some feature"
-
-Push to the branch:
-
-git push origin feature-branch-name
-
-Open a pull request.
-
-Contact
-
-Ahmed Hassan📧 Email: ahmedhassan.2472@gmail.com🔗 GitHub: AhmedHassan222🔗 LinkedIn: ahmed1hassan7
-
+1. Fork the repository.
+2. Create a new branch:
+   ```sh
+   git checkout -b feature-branch-name
+   ```
+3. Make your changes.
+4. Commit your changes:
+   ```sh
+   git commit -m "Add
