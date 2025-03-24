@@ -1,0 +1,18 @@
+.headerImage,
+header {
+    background-color: whitesmoke;
+}
+
+.btnOrange {
+    background-color: rgba(255, 101, 19, 255);
+}
+
+.caption {
+    min-height: 360px !important;
+}
+
+.feature 
+{
+    width: 100px;
+    height: 100px;
+}

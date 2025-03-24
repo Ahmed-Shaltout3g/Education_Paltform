@@ -1,0 +1,29 @@
+.btnOrange 
+{
+    background-color: rgba(255,101,19,255);
+    color: white;
+}
+
+.textOrange 
+{
+    color: rgba(255,101,19,255);
+}
+
+.textOrange:hover
+{
+    color: rgba(255,101,19,255);
+    text-decoration: underline;
+}
+.eyePostion{
+    left: 15px;
+    cursor: pointer;
+}
+
+.goBackButton
+{
+    transition: all 0.3s;
+}
+.goBackButton:hover
+{
+    background-color: rgb(236, 236, 236) !important;
+}

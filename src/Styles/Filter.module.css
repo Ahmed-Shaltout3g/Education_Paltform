@@ -1,0 +1,27 @@
+.item:hover 
+{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+.item 
+{
+    transition: background-color 0.2s;
+}
+.link:hover 
+{
+    cursor: pointer;
+}
+
+.btnOrange 
+{
+    background-color: rgba(255,101,19,255);
+}
+.btnOrange:hover 
+{
+    background-color: rgba(204,81,15,255); 
+}
+
+.cursorPointer:hover 
+{
+    cursor: pointer;
+}

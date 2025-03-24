@@ -1,0 +1,9 @@
+.btnOrange 
+{
+    background-color: rgba(255,101,19,255);
+    transition: all 0.3s;
+}
+.btnOrange:hover 
+{
+    background-color: rgb(218, 91, 23);
+}

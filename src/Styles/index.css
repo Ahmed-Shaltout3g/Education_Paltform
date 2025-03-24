@@ -1,0 +1,122 @@
+:root {
+  --mainColorOrange: rgba(255, 101, 19, 255);
+  --mainColorBlue: rgba(17, 98, 164, 255);
+}
+
+link,
+a {
+  text-decoration: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: var(--mainColorBlue);
+  height: 100vh;
+  color: black;
+  /* flex-direction: column */
+}
+
+body {
+  direction: rtl;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  font-family: "Cairo", sans-serif;
+
+}
+
+.widthCustom {
+  width: 40%;
+  border: 1px solid #D3D3D3;
+  padding: 50px;
+}
+
+@media (max-width: 991px) {
+  .widthCustom {
+    width: 60%;
+  }
+}
+
+@media (max-width: 768px) {
+  .widthCustom {
+    width: 100%;
+    border: none;
+    padding: 0px;
+  }
+}
+
+@media (max-width: 576px) {
+  .widthCustom {
+    width: 95%;
+    border: none;
+    padding: 0px;
+  }
+
+  .subTitle {
+    font-size: 13px;
+  }
+  .title 
+  {
+    font-size:20px;
+  }
+}
+
+.fitContent {
+  width: fit-content;
+}
+
+
+
+
+body::-webkit-scrollbar {
+  background-color: #e7e7e7;
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+
+}
+
+body::-webkit-scrollbar {
+  height: 5px;
+}
+
+input,
+select,
+textarea {
+  border: none !important;
+  border-bottom: solid 1px rgb(180, 180, 180) !important;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-bottom: solid 1px var(--mainColorOrange) !important;
+}
+
+
+input[type="checkbox"] {
+  accent-color: var(--mainColorBlue);
+}
+
+.small {
+  font-size: 14px;
+}
+
+
+input::placeholder {
+  color: black;
+}
+
+
+span:hover,
+i:hover {
+  cursor: pointer;
+}

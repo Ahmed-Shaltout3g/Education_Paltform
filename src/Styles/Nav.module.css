@@ -1,0 +1,54 @@
+.widthLogo 
+{
+    width: 6%;
+}
+
+.btnOrange 
+{
+    background-color: rgba(255,101,19,255);
+}
+.btnOutlinOrange 
+{
+    border: rgba(255,101,19,255) solid 1px;
+    color:  rgba(255,101,19,255);
+    transition: all 0.3s;
+}
+.btnOutlinOrange:hover
+{
+    background-color: rgba(255,101,19,255) ;
+    color:  white !important;
+    cursor: pointer;
+
+}
+.btnOrange:hover 
+{
+    background-color:  rgb(219, 97, 30) ; 
+    cursor: pointer;
+
+}
+
+
+@media screen and (max-width:991px) {
+    ul
+    {
+        padding-block:15px
+    }
+    li  
+    {
+        padding-block: 5px;
+    }
+    .widthLogo 
+{
+    width: 10%;
+}
+    
+}
+
+
+@media screen and (min-width:992px) {
+    .menu 
+    {
+        display: none;
+    }
+    
+}

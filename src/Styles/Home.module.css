@@ -1,0 +1,15 @@
+/* home.css */
+.heroSection {
+    background: url('https://via.placeholder.com/1200x400') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .testimonials blockquote {
+    border-left: 5px solid #007bff;
+    padding-left: 1em;
+  }
+  
+  .cta {
+    background-color: #007bff;
+  }
+  
