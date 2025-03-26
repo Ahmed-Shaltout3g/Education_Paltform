@@ -18,7 +18,7 @@
 You can check out the live version of this project here:  
 [Live Demo]
 
-https://github.com/Ahmed-Shaltout3g/Education_Platform
+https://ahmed-shaltout3g.github.io/Education_Paltform/
 
 ## Features
 - ✅ Protected routing ensures that each role (admin, teacher, student) only accesses specific pages.
